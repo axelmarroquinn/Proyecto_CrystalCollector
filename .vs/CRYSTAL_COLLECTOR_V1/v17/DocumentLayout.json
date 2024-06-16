@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Programaci\u00F3n\\Proyectos\\CRYSTAL_COLLECTOR_V1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243D6687-DBF1-4C51-9E14-20E388DE4AB6}|VersionFinal\\VersionFinal.csproj|c:\\users\\usuario\\programaci\u00F3n\\proyectos\\crystal_collector_v1\\versionfinal\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{243D6687-DBF1-4C51-9E14-20E388DE4AB6}|VersionFinal\\VersionFinal.csproj|solutionrelative:versionfinal\\matriz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1171,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matriz.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Proyectos\\CRYSTAL_COLLECTOR_V1\\VersionFinal\\Matriz.cs",
+              "RelativeDocumentMoniker": "VersionFinal\\Matriz.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Proyectos\\CRYSTAL_COLLECTOR_V1\\VersionFinal\\Matriz.cs",
+              "RelativeToolTip": "VersionFinal\\Matriz.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:14:22.101Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
